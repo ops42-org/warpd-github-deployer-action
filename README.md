@@ -1,1 +1,1 @@
-# warpd-github-deployer-action
+# warpd-github-builder-action
